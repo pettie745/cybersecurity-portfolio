@@ -56,3 +56,8 @@ The SQL queries helped identify specific login activity and employee records tha
 ## Conclusion
 
 This project demonstrates how SQL filtering can be applied to cybersecurity investigations and system administration tasks. By using filtering operators such as `AND`, `OR`, `NOT`, and `LIKE`, I was able to retrieve specific records from organizational data.
+## Project Evidence
+
+The original project included screenshots showing the SQL queries and portions of their outputs.
+
+The evidence demonstrates how the queries were used to retrieve specific login activity and employee records during the investigation.
